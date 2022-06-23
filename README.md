@@ -1,17 +1,27 @@
-# mini-project-IV
-#### This repo contains instruction for Mini Project IV!!
+# Mini-project IV
 
-Welcome to the 4th Miniproject. We will, once again, practice supervised learning. In addition to previous tasks and challenges, we will deploy our solution to cloud as API service. We will practice following skills:
+### [Assignment](assignment.md)
 
-- Data Preparation
-- Feature Engineering
-- Supervised Learning
-- Pipelines
-- Model Persistance
-- Flask - building own API
-- Deployment to Cloud (AWS)
+## Project/Goals
+(fill in your description and goals here)
 
-Go to the notebook mini-project-IV.ipynb where you can find all instructions.
-**Enjoy!!!**
+## Hypothesis
+(fill in your hypothesis about which subset of applicants will be most likely to have their loan approved, and why. Give some examples of how you will test this hypothesis)
+
+## EDA 
+(fill in what you discovered in your exploration of the dataset)
 
 
+## Process
+(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
+### (your step 1)
+### (your step 2)
+
+## Results/Demo
+(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
+
+## Challanges 
+(discuss challenges you faced in the project)
+
+## Future Goals
+(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
