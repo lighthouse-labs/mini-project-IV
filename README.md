@@ -5,11 +5,15 @@
 ## Project/Goals
 (fill in your description and goals here)
 
+## Hypothesis
+(fill in your hypothesis about which subset of applicants will be most likely to have their loan approved, and why. Give some examples of how you will test this hypothesis)
+
 ## EDA 
 (fill in what you discovered in your exploration of the dataset)
 
+
 ## Process
-(fill in what you did during EDA, modeling, deployment, testing)
+(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
 ### (your step 1)
 ### (your step 2)
 
