@@ -10,6 +10,14 @@ Welcome to the 4th Miniproject. We will, once again, practice supervised learnin
 - Flask - building an API
 - Deployment to Cloud (AWS)
 
-## Task List
+## Tasks
+1. complete the instructions in the [Project Notebook](mini-project-IV.ipynb)
+2. fill our your [README](README.md) with:
+    - a brief description of the project and its goals (2-3 sentences)
+    - a description of what you found while exploring the dataset
+    - the steps you took to complete the project (simple description of each step and any difficulties it posed)
+    - your results/link to a demo (how did your model perform? how does the API you created work? (optional) API usage demo)
+    - brief discussion of challenges you faced in this project (2-4 sentences or list points)
+    - (optional) description what you would do with a bit more time
 
 

@@ -14,7 +14,7 @@
 ### (your step 2)
 
 ## Results/Demo
-(fill in your model's performance, details about the APi you created, and (optional) a link to an live demo)
+(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
 
 ## Challanges 
 (discuss challenges you faced in the project)
