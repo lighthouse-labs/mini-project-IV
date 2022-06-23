@@ -11,7 +11,7 @@ Welcome to the 4th Miniproject. We will, once again, practice supervised learnin
 - Deployment to Cloud (AWS)
 
 ## Tasks
-1. complete the instructions in the [Project Notebook](mini-project-IV.ipynb)
+1. complete the instructions in the [Project Notebook](notebooks/mini-project-IV.ipynb)
 2. fill our your [README](README.md) with:
     - a brief description of the project and its goals (2-3 sentences)
     - your hypothesis generation
